@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Introduction
 
 
@@ -22,3 +23,6 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | . | . | . | . | .
 2 | . | . | . | . | .
+=======
+# vr-viscosity-lab
+>>>>>>> a62e7cb9d62410441d68ec8ccaaee080a95c9109
