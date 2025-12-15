@@ -21,8 +21,8 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 |Gargi Singh . | Dr. Ashutosh Tiwari. | Information Technology. | Rajkiya Engineering College banda. | gargisingh693@gmail.com.
+
 =======
 # vr-viscosity-lab
 >>>>>>> a62e7cb9d62410441d68ec8ccaaee080a95c9109
